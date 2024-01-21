@@ -52,9 +52,16 @@ Part time course for non-computing graduates
 **Creative Media Trainer** @ [BigRockDesigns](https://www.bigrockdesigns.com/) _(Mar 2019 - Sept 2019)_ <br>
 Delivered training courses on Video Editing, Audio Production & Digital Marketing
 
-**A/V Technician** @ [Lagan College](https://lagancollege.com/) _(Mar 2017 - Sept 2018)_ <br>
+**ICT A/V Technician** @ [Lagan College](https://lagancollege.com/) _(Mar 2017 - Sept 2018)_ <br>
 Supported the school's ICT and A/V systems
 
 **Specialist** @ [Apple Retail](https://www.apple.com/uk/retail/) _(Aug 2008 - Aug 2013)_ <br>
 Sales, Training, Technical Support
 
+## 👨🏻‍🎓 Education
+
+**BSc Hons** in Creative Technology @ [Ulster University](https://www.ulster.ac.uk/) - _(2013 - 2017)_ <br>
+First Class Honours
+
+**HND** in Music Technology @[SERC](https://www.serc.ac.uk/) - _(2011 - 2013)_ <br>
+Distinction

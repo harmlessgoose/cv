@@ -13,9 +13,9 @@ _Owned projects from start to finish, including planning, implementing, testing 
 
   - Led the Quieter Notifications project, reducing per-transaction notifications and introducing a new monthly payment reminder.
   - Led the project to automatically close dormant Flex accounts, removing unused credit being reported to CRA's
-  - Contributed significantly to the development of Flex Physical Cards, including API groundwork, acceptance testing, email notifications and UI changes.
-  - Played a key role in the Defer First Payment project, delaying the initial repayment to a month later.
-  - Successfully transitioned all customer-facing app screens to a new design and architecture, implementing and testing all provided designs.
+  - Contributed to the development of Flex Physical Cards, including API groundwork, acceptance testing, email notifications and UI changes.
+  - Contributed to the Defer First Payment project, delaying initial repayments to a month later.
+  - Transitioned all customer-facing app screens to a new design and architecture, implementing and testing all provided designs.
 
 Additional Contributions:
   - Initiated and implemented improvements to internal dev tooling

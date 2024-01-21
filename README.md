@@ -18,9 +18,9 @@ _Owning projects from start to finish, including planning, implementing, testing
   - Transitioned all customer-facing app screens to a new design and architecture, implementing and testing all provided designs.
 
 Additional Contributions:
-  - Initiated and implemented improvements to internal dev tooling
-  - Created and maintained documentation (Flex 101).
-  - Proactively organized meetings and support for newer engineers going through the Makers program.
+  - Improved internal dev tooling.
+  - Created and maintained internal documentation.
+  - Proactively organized meetings and support for newer engineers coming through the Makers Bootcamp.
 
 **_Technologies used:_** Go, JavaScript, React, SQL/BigQuery, NSQ/Firehose, Cassandra, GraphQL, CircleCI, Contentful.
 <br><br>

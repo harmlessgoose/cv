@@ -35,6 +35,7 @@ Supported the school's ICT and A/V systems
 
 **Specialist** @ [Apple Retail](https://www.apple.com/uk/retail/) _(Aug 2008 - Aug 2013)_ <br>
 Sales, Training, Technical Support
+<br><br>
 
 ## 👨🏻‍🎓 Education
 

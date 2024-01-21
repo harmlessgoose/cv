@@ -7,7 +7,7 @@ _Software engineer based in Belfast_ 😊 <br>
 ## 👨🏻‍💻 Engineering Experience
 
 **Backend Engineer** @ [Monzo](https://monzo.com/) _(May 2022 - Present)_ <br>
-Monzo Flex - Credit Card / BuyNowPayLater
+Monzo Flex - Credit Card / Buy Now, Pay Later
 
 _Owned projects from start to finish, including planning, implementing, testing and shipping new features_
 

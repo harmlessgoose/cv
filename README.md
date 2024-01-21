@@ -28,10 +28,21 @@ Additional Contributions:
 **Coding Bootcamp** @ [Makers](https://makers.tech/) _(Jan 2022 - Apr 2022)_ <br>
 12 week full-time Software Engineering bootcamp
 
-  - Object-Oriented programming and Web Development
+  - Object-Oriented programming
+  - Web Development & REST APIs
   - Git, TDD and debugging
   - Created multiple projects solo, paired, and in groups
 
-**_Technologies used:_** Ruby, RSpec, JavaScript, Node.JS, Jest, React, HTML, CSS, MongoDB.
+**_Technologies used:_** Ruby, RSpec, JavaScript, Node.JS, Jest, React, HTML, CSS, Sinatra, MongoDB.
 <br><br>
 
+**MSc Postgraduate Software Development** @ [Queen's University](https://www.qub.ac.uk/courses/postgraduate-taught/software-development-part-time-msc/#overview) _(June 2020 - June 2021)_ <br>
+Part time course for non-computing graduates
+
+  - Object-Oriented programming
+  - Web Development & REST APIs
+  - Databases
+  - Created multiple projects solo, paired, and in groups
+
+**_Technologies used:_** Java, JavaScript, HTML, CSS, Bulma, SQL/MySQL.
+<br><br>

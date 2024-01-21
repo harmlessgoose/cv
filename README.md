@@ -27,6 +27,9 @@ Additional Contributions:
 
 ## 🤹🏻 Creative Training & Customer Service
 
+**Customer Operations** @ [Monzo](https://www.monzo.com/) _(Feb 2020 - Dec 2021)_ <br>
+Expert in Savings, Subscriptions and general customer support
+
 **Creative Media Trainer** @ [BigRockDesigns](https://www.bigrockdesigns.com/) _(Mar 2019 - Sept 2019)_ <br>
 Delivered training courses on Video Editing, Audio Production & Digital Marketing
 

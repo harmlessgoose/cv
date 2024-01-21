@@ -30,7 +30,7 @@ Additional Contributions:
 **Creative Media Trainer** @ [BigRockDesigns](https://www.bigrockdesigns.com/) _(Mar 2019 - Sept 2019)_ <br>
 Delivered training courses on Video Editing, Audio Production & Digital Marketing
 
-**ICT A/V Technician** @ [Lagan College](https://lagancollege.com/) _(Mar 2017 - Sept 2018)_ <br>
+**ICT A/V Technician** @ [Lagan College](https://lagancollege.com/) _(Sept 2017 - Sept 2018)_ <br>
 Supported the school's ICT and A/V systems
 
 **Specialist** @ [Apple Retail](https://www.apple.com/uk/retail/) _(Aug 2008 - Aug 2013)_ <br>

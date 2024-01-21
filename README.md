@@ -8,7 +8,8 @@ _Software engineer based in Belfast_ <br>
 
 **Backend Engineer** @ [Monzo](https://monzo.com/) _(May 2022 - Present)_ <br>
 Monzo Flex - Credit Card / BuyNowPayLater
-Owned projects from start to finish, including planning, implementing, testing and shipping new features
+
+_Owned projects from start to finish, including planning, implementing, testing and shipping new features_
 
   - Led the Quieter Notifications project, reducing per-transaction notifications and introducing a new monthly payment reminder.
   - Led the project to automatically close dormant Flex accounts, removing unused credit being reported to CRA's

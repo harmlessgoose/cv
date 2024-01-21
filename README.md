@@ -58,7 +58,7 @@ Part time course for non-computing graduates
   - Databases
   - Created multiple projects solo, paired, and in groups
 
-**_Technologies used:_** Java, JavaScript, HTML, CSS, Bulma, SQL/MySQL.
+**_Technologies used:_** Java, PHP, HTML, CSS, Bulma, SQL/MySQL.
 <br><br>
 
 **BSc Hons** in Creative Technology @ [Ulster University](https://www.ulster.ac.uk/) - _(2013 - 2017)_ <br>

@@ -61,7 +61,7 @@ Part time course for non-computing graduates
 <br><br>
 
 **BSc Hons** in Creative Technology @ [Ulster University](https://www.ulster.ac.uk/) - _(2013 - 2017)_ <br>
-First Class Honours
+_First Class Honours_
 
-**HND** in Music Technology @[SERC](https://www.serc.ac.uk/) - _(2011 - 2013)_ <br>
-Distinction
+**HND** in Music Technology @ [SERC](https://www.serc.ac.uk/) - _(2011 - 2013)_ <br>
+_Distinction_

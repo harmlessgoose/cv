@@ -22,5 +22,16 @@ Additional Contributions:
   - Created and maintained documentation (Flex 101).
   - Proactively organized meetings and support for newer engineers going through the Makers program.
 
-**_Technologies used:_** Go, JavaScript, React, SQL/BigQuery, NSQ/Firehose, Cassandra, GraphQL, Contentful.
+**_Technologies used:_** Go, JavaScript, React, SQL/BigQuery, NSQ/Firehose, Cassandra, GraphQL, CircleCI, Contentful.
 <br><br>
+
+**Coding Bootcamp** @ [Makers](https://makers.tech/) _(Jan 2022 - Apr 2022)_ <br>
+12 week full-time Software Engineering bootcamp
+
+  - Object-Oriented programming and Web Development
+  - Git, TDD and debugging
+  - Created multiple projects solo, paired, and in groups
+
+**_Technologies used:_** Ruby, RSpec, JavaScript, Node.JS, Jest, React, HTML, CSS, MongoDB.
+<br><br>
+

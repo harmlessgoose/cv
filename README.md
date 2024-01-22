@@ -56,7 +56,7 @@ _First Class Honours_
 _Distinction_
 <br><br>
 
-## 🤹🏻 Creative Training & Customer Service
+## 💁🏻‍♂️ Creative Training & Customer Service
 
 **Customer Operations** @ [Monzo](https://www.monzo.com/) _(Feb 2020 - Dec 2021)_ <br>
 Expert in Savings, Subscriptions and general customer support

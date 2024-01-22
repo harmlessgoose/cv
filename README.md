@@ -12,7 +12,7 @@ Monzo Flex - Credit Card / Buy Now, Pay Later
 _Owning projects from start to finish, including planning, implementing, testing, shipping and monitoring_
 
   - Led the Quieter Notifications project, reducing per-transaction notifications and introducing a new monthly payment reminder.
-  - Led the project to automatically close dormant Flex accounts, removing unused lines credit being reported to CRA's for 1238 existing customers, 200 customers per month on average
+  - Led the project to automatically close dormant Flex accounts, removing unused lines credit being reported to CRA's for 1238 existing customers, 200 ongoing customers per month on average
   - Worked on the development of Flex Physical Cards, including API groundwork, acceptance testing, email notifications and UI changes.
   - Contributed to the Defer First Payment project, delaying initial repayments to a month later.
   - Transitioned all customer-facing app screens to a new design and architecture, implementing and testing all provided designs.

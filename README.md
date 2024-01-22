@@ -33,7 +33,7 @@ Full-time Software Engineering bootcamp
   - Object-Oriented programming
   - Web Development & REST APIs
   - Git, TDD and debugging
-  - Created multiple projects solo, paired, and in groups
+  - Created [Uno game in Javascript](https://github.com/meghanblyth/Juno_game) for final project
 
 **_Technologies used:_** Ruby, RSpec, JavaScript, Node.JS, Jest, React, HTML, CSS, Sinatra, MongoDB.
 <br><br>
